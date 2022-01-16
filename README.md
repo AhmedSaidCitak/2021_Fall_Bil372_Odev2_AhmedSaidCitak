@@ -8,6 +8,3 @@ Sistem Yöneticisi olarak giriş yapmak için **KullaniciAdi**: ahmed , **Şifre
 
 Başka  herhangi bir kullanıcı adı şifre değerine ihtiyacınız olmayacaktır.
 
-## Açıklama Videosu hk.
-
-Açıklama videosu için Bil372_UygulamaOdevi-2.mkv dosyasını (23MB) indirip videoma ulaşabilirsiniz.
